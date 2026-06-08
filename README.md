@@ -3,7 +3,7 @@
 > **Turn Claude Code into a 9-role, 4-phase virtual software company.**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-3.1.0-blue)](https://github.com/YOUR_USER/company-mode/releases)
+[![Version](https://img.shields.io/badge/version-3.1.0-blue)](https://github.com/YZX20061117/company-mode/releases)
 [![Claude Code](https://img.shields.io/badge/Claude%20Code-plugin-8A2BE2)](https://claude.ai/code)
 
 **Company Mode** orchestrates multiple Claude Code agents into a structured software development pipeline. Instead of one AI doing everything, you get a virtual company with specialized roles, adversarial review, self-healing failure recovery, and token budget control — all running on Claude Code.
@@ -77,7 +77,7 @@ Agents **only appear when needed** — not all 9 roles sit in context at once.
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USER/company-mode.git
+git clone https://github.com/YZX20061117/company-mode.git
 cd company-mode
 
 # Install to Claude Code

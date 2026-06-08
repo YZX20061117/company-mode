@@ -42,11 +42,11 @@ Analyst 苏格    DA Pre-Mortem        Subagent-per-task    度量报告
 🛑 确认产品镜像  🛑 用户确认(1次)     施工→更新规格        🛑 用户验收(1次)
 ```
 
-详见 [pipeline.md](pipeline.md)。
+详见 [pipeline.md](docs/pipeline.md)。
 
 ## 角色拆分
 
-详见 [roles.md](roles.md)。
+详见 [roles.md](docs/roles.md)。
 
 | # | 岗位 | 背后 Agent/Skill | 常驻? | 触发条件 |
 |---|------|-----------|------|---------|

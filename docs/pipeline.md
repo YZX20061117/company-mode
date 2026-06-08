@@ -89,7 +89,7 @@ Analyst 苏格    DA Pre-Mortem        Subagent-per-task    度量报告
    - CTO（architect, sonnet）：架构草案 + 技术选型 + 平台合规规则 + 风险矩阵
    - PM（pm-planner, sonnet）：需求拆解 + 关键业务假设列表 + 任务分解树
 
-2. **CEO 合成**两份产出 → 一页纸架构简报（[architecture-brief.md](templates/architecture-brief.md)）
+2. **CEO 合成**两份产出 → 一页纸架构简报（[architecture-brief.md](../templates/architecture-brief.md)）
 
 3. **DA 并行执行 Pre-Mortem**（交叉模型）→ 回答 4 个核心问题：
 
@@ -100,7 +100,7 @@ Analyst 苏格    DA Pre-Mortem        Subagent-per-task    度量报告
    4. 如果有 10 倍用户量，什么会先崩？
    ```
 
-   产出：**Kill List**（[kill-list.md](templates/kill-list.md)）
+   产出：**Kill List**（[kill-list.md](../templates/kill-list.md)）
 
 4. **CEO 提交用户确认**：架构方向 + Kill List + 业务假设列表
 
@@ -325,7 +325,7 @@ CEO: Wave 1/3 (Task 1-4/12)
 
 ### 度量报告
 
-自动生成（[metrics-report.md](templates/metrics-report.md)）：
+自动生成（[metrics-report.md](../templates/metrics-report.md)）：
 
 ```
 Phase -1 Pre-Clarify: XX K tokens | Requirement Analyst: XXk (若启动)
@@ -340,7 +340,7 @@ Phase 2 Verify:       XX K tokens
 
 ### 复盘
 
-度量数据 + 关键教训 → 写入 [retro-index.md](learning/retro-index.md)。模式缓存按需更新。
+度量数据 + 关键教训 → 写入 [retro-index.md](../learning/retro-index.md)。模式缓存按需更新。
 
 ### 用户验收
 

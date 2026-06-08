@@ -3,7 +3,7 @@
 > **把你的 Claude Code 变成一个 9 人虚拟软件公司。**
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Version](https://img.shields.io/badge/version-3.1.0-blue)](https://github.com/YOUR_USER/company-mode/releases)
+[![Version](https://img.shields.io/badge/version-3.1.0-blue)](https://github.com/YZX20061117/company-mode/releases)
 
 **公司模式** 将多个 Claude Code Agent 编排为结构化的软件开发流水线。不再是"一个 AI 包揽一切"，而是一个有专职角色、对抗审查、自我修复、Token 预算控制的虚拟公司。
 
@@ -63,7 +63,7 @@ Pre-Clarify ──→ Align ──────────→ Build ────
 ## 🚀 快速开始
 
 ```bash
-git clone https://github.com/YOUR_USER/company-mode.git
+git clone https://github.com/YZX20061117/company-mode.git
 cd company-mode
 
 # 安装到 Claude Code

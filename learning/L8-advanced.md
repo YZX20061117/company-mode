@@ -20,7 +20,7 @@
 
 - 工作记忆：当前Phase的所有讨论
 - 短期记忆：项目的 `.claude/company/` 目录（state.json、decisions/、retrospectives/）
-- 长期记忆：你的 `~/.claude/CLAUDE.md` 和 ECC规则（影响每次对话）
+- 长期记忆：你的 `~/.claude/CLAUDE.md` 和 编码规则（影响每次对话）
 
 ## 2. RAG——检索增强生成
 
